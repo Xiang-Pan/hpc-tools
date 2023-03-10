@@ -1,0 +1,110 @@
+SLURM Cluster Report 02/28/23 - 03/10/23
+--------------------------------------------------
+CPU Utilization
+--------------------------------------------------------------------------------
+Cluster Utilization 2023-02-28T00:00:00 - 2023-03-09T23:59:59
+Usage reported in Percentage of Total
+--------------------------------------------------------------------------------
+  Cluster Allocated     Down  Reported      TRES Name 
+--------- --------- -------- --------- -------------- 
+dsiclust+    40.31%    0.00%   100.00%            cpu 
+--------------------------------------------------
+JOB REPORTS
+--------------------------------------------------------------------------------
+Job Sizes 2023-02-28T00:00:00 - 2023-03-09T23:59:59 (864000 secs)
+Time reported in Percentage of Total
+--------------------------------------------------------------------------------
+  Account   Cluster      0-1 CPUs      2-3 CPUs     4-15 CPUs    16-31 CPUs    32-63 CPUs    >= 64 CPUs % of cluster 
+--------- --------- ------------- ------------- ------------- ------------- ------------- ------------- ------------ 
+     root dsiclust+         0.00%         1.64%        85.12%         0.37%        10.73%         2.13%      100.00% 
+--------------------------------------------------------------------------------
+Cluster/Account/User Utilization 2023-02-28T00:00:00 - 2023-03-09T23:59:59 (864000 secs)
+Usage reported in Percentage of Total
+--------------------------------------------------------------------------------
+             Account   Cluster     Login     Proper Name TRES Count      Used 
+-------------------- --------- --------- --------------- ---------- --------- 
+root                 dsiclust+                                    0    40.31% 
+ general_group       dsiclust+                                    0    40.31% 
+  annawoodard        dsiclust+                                    0     0.01% 
+   annawoodard       dsiclust+ annawood+ Anna Elizabeth+          0     0.01% 
+  baichen            dsiclust+                                    0     0.30% 
+   baichen           dsiclust+   baichen     Baichen Tan          0     0.30% 
+  chacha             dsiclust+                                    0     0.06% 
+   chacha            dsiclust+    chacha     Chacha Chen          0     0.06% 
+  chaochunh          dsiclust+                                    0     0.86% 
+   chaochunh         dsiclust+ chaochunh   Chao-Chun Hsu          0     0.86% 
+  chenghao           dsiclust+                                    0     1.72% 
+   chenghao          dsiclust+  chenghao   Chenghao Yang          0     1.72% 
+  cvonglahn          dsiclust+                                    0     0.07% 
+   cvonglahn         dsiclust+ cvonglahn Cole William v+          0     0.07% 
+  daisuke1           dsiclust+                                    0     0.01% 
+   daisuke1          dsiclust+  daisuke1 Daisuke Kageya+          0     0.01% 
+  dtbukowski         dsiclust+                                    0     0.01% 
+   dtbukowski        dsiclust+ dtbukows+ David Thomas B+          0     0.01% 
+  eorlova            dsiclust+                                    0     4.32% 
+   eorlova           dsiclust+   eorlova    Elena Orlova          0     4.32% 
+  gillianm           dsiclust+                                    0     0.00% 
+   gillianm          dsiclust+  gillianm Gillian Ariann+          0     0.00% 
+  hanliu             dsiclust+                                    0     0.24% 
+   hanliu            dsiclust+    hanliu         Han Liu          0     0.24% 
+  jnegrea            dsiclust+                                    0     0.00% 
+   jnegrea           dsiclust+   jnegrea  Jeffrey Negrea          0     0.00% 
+  kurtzp             dsiclust+                                    0     0.01% 
+   kurtzp            dsiclust+    kurtzp     Piper Kurtz          0     0.01% 
+  meliao             dsiclust+                                    0     0.07% 
+   meliao            dsiclust+    meliao      Owen Melia          0     0.07% 
+  mingchiehliu       dsiclust+                                    0     0.01% 
+   mingchiehliu      dsiclust+ mingchie+  Ming-Chieh Liu          0     0.01% 
+  nicolasvila        dsiclust+                                    0     0.18% 
+   nicolasvila       dsiclust+ nicolasv+ Nicolas Vila A+          0     0.18% 
+  rahimrasool        dsiclust+                                    0     0.00% 
+   rahimrasool       dsiclust+ rahimras+    Rahim Rasool          0     0.00% 
+  suyashlakhani      dsiclust+                                    0     0.00% 
+   suyashlakhani     dsiclust+ suyashla+  Suyash Lakhani          0     0.00% 
+  tspread            dsiclust+                                    0     0.00% 
+   tspread           dsiclust+   tspread Trevor Spreadb+          0     0.00% 
+  xiangpan           dsiclust+                                    0     0.02% 
+   xiangpan          dsiclust+  xiangpan        xiangpan          0     0.02% 
+  yiboj              dsiclust+                                    0     0.00% 
+   yiboj             dsiclust+     yiboj      Yibo Jiang          0     0.00% 
+  yushuqiu           dsiclust+                                    0     0.01% 
+   yushuqiu          dsiclust+  yushuqiu       Yushu Qiu          0     0.01% 
+  zlyu               dsiclust+                                    0    32.40% 
+   zlyu              dsiclust+      zlyu        Zhao Lyu          0    32.40% 
+--------------------------------------------------------------------------------
+Cluster/User/WCKey Utilization 2023-02-28T00:00:00 - 2023-03-09T23:59:59 (864000 secs)
+Usage reported in CPU Minutes
+--------------------------------------------------------------------------------
+  Cluster     Login     Proper Name TRES Count      Used           WCKey 
+--------- --------- --------------- ---------- --------- --------------- 
+--------------------------------------------------------------------------------
+Cluster/WCKey/User Utilization 2023-02-28T00:00:00 - 2023-03-09T23:59:59 (864000 secs)
+Usage reported in CPU Minutes
+--------------------------------------------------------------------------------
+  Cluster     Login     Proper Name TRES Count      Used           WCKey 
+--------- --------- --------------- ---------- --------- --------------- 
+--------------------------------------------------------------------------------
+Job Sizes 2023-02-28T00:00:00 - 2023-03-09T23:59:59 (864000 secs)
+Time reported in Minutes
+--------------------------------------------------------------------------------
+  Cluster   Account     0-49 CPUs   50-249 CPUs  250-499 CPUs  500-999 CPUs  >= 1000 CPUs % of cluster 
+--------- --------- ------------- ------------- ------------- ------------- ------------- ------------ 
+dsiclust+      root       3561306        437876         87241             0             0      100.00% 
+--------------------------------------------------------------------------------
+Job Sizes 2023-02-28T00:00:00 - 2023-03-09T23:59:59 (864000 secs)
+Time reported in Minutes
+--------------------------------------------------------------------------------
+  Cluster              Account     0-49 CPUs   50-249 CPUs  250-499 CPUs  500-999 CPUs  >= 1000 CPUs % of cluster 
+--------- -------------------- ------------- ------------- ------------- ------------- ------------- ------------ 
+--------------------------------------------------------------------------------
+Job Sizes by Wckey 2023-02-28T00:00:00 - 2023-03-09T23:59:59 (864000 secs)
+Time reported in Minutes
+--------------------------------------------------------------------------------
+  Cluster     Wckey     0-49 CPUs   50-249 CPUs  250-499 CPUs  500-999 CPUs  >= 1000 CPUs % of cluster 
+--------- --------- ------------- ------------- ------------- ------------- ------------- ------------ 
+--------------------------------------------------------------------------------
+Reservation Utilization 2023-02-28T00:00:00 - 2023-03-09T23:59:59
+Usage reported in TRES Minutes
+--------------------------------------------------------------------------------
+  Cluster      Name               Start                 End      TRES Name            Allocated                 Idle 
+--------- --------- ------------------- ------------------- -------------- -------------------- -------------------- 
